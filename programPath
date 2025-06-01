@@ -1,5 +1,0 @@
-prodigal=prodigal
-hmmsearch=hmmsearch
-mafft=mafft
-fasttree=FastTree
-raxml=raxmlHPC-PTHREADS
